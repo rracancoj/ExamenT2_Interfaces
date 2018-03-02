@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Yep!</string>
+    <string name="titleLogin">Yep!</string>
+    <string name="username_Hint">Username</string>
+    <string name="password_Hint">Password</string>
+    <string name="login_button_label">Log in</string>
+    <string name="textoLogin">UEM handycrafted</string>
+
+    <string name="alumni">Alumni</string>
+    <string name="perfil">perfil</string>
+    <string name="titleMain">THE LIBRARY</string>
+    <string name="mainText">Del 11 al 14 de diciembre, en el Campus de villaviciosa de odon participa en el mercadillo de libros organizado por la biblioteca CRAI Dulce.</string>
+</resources>

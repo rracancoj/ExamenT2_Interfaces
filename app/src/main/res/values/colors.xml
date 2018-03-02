@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff8800</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="text_color">#000000</color>
+    <color name="bakcground">#ff8800</color>
+    <color name="blanco">#fff</color>
+    <color name="rojo">#D2323F</color>
+    <color name="light_gray">#ccc</color>
+    <color name="trasparente">#ffffff</color>
+</resources>
